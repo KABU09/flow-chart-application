@@ -1,0 +1,9 @@
+{
+    "UMLClass": {
+        "can": {
+            "UMLClass": {
+                "link": ["Realization", "Association", "Dependency"]
+            }
+        }
+    }
+}

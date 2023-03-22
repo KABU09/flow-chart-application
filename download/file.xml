@@ -1,0 +1,79 @@
+<root>
+  <class>GraphLinksModel</class>
+  <linkFromPortIdProperty>fromPort</linkFromPortIdProperty>
+  <linkToPortIdProperty>toPort</linkToPortIdProperty>
+  <nodeDataArray>
+    <category>Step</category>
+    <text>Some Step</text>
+    <key>-2</key>
+    <loc>-255 -381</loc>
+  </nodeDataArray>
+  <nodeDataArray>
+    <category>Step</category>
+    <text>Some Step</text>
+    <key>-3</key>
+    <loc>-238 -176</loc>
+  </nodeDataArray>
+  <nodeDataArray>
+    <category>Step</category>
+    <text>Some Step</text>
+    <key>-4</key>
+    <loc>-9 -401</loc>
+  </nodeDataArray>
+  <nodeDataArray>
+    <category>Step</category>
+    <text>Some Step</text>
+    <key>-5</key>
+    <loc>9 -163</loc>
+  </nodeDataArray>
+  <nodeDataArray>
+    <category>Conditional</category>
+    <text>Condition</text>
+    <key>-6</key>
+    <loc>177.5 -253</loc>
+  </nodeDataArray>
+  <nodeDataArray>
+    <category>Step</category>
+    <text>Some Step</text>
+    <key>-7</key>
+    <loc>186 -399</loc>
+  </nodeDataArray>
+  <linkDataArray>
+    <category>line</category>
+    <from>-2</from>
+    <to>-3</to>
+    <fromPort>B</fromPort>
+    <toPort>T</toPort>
+    <points>-255</points>
+    <points>-362.2450958251953</points>
+    <points>-255</points>
+    <points>-352.2450958251953</points>
+    <points>-255</points>
+    <points>-278.5</points>
+    <points>-238</points>
+    <points>-278.5</points>
+    <points>-238</points>
+    <points>-204.7549041748047</points>
+    <points>-238</points>
+    <points>-194.7549041748047</points>
+  </linkDataArray>
+  <linkDataArray>
+    <category>lineTest</category>
+    <from>-4</from>
+    <to>-5</to>
+    <fromPort>B</fromPort>
+    <toPort>T</toPort>
+    <points>-9</points>
+    <points>-382.2450958251953</points>
+    <points>-9</points>
+    <points>-372.2450958251953</points>
+    <points>-9</points>
+    <points>-282</points>
+    <points>9</points>
+    <points>-282</points>
+    <points>9</points>
+    <points>-191.7549041748047</points>
+    <points>9</points>
+    <points>-181.7549041748047</points>
+  </linkDataArray>
+</root>

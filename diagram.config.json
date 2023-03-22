@@ -1,0 +1,138 @@
+{
+    "Step": {
+        "can": {
+            "Step": {
+                "link": ["simpleLine", "lineTest", "line"]
+            },
+            "Stop": {
+                "link": ["simpleLine"]
+            },
+            "Conditional": {
+                "link": ["simpleLine"]
+            },
+            "Variable": {
+                "link": ["simpleLine"]
+            },
+            "Input": {
+                "link": ["simpleLine"]
+            },
+            "Output": {
+                "link": ["simpleLine"]
+            }
+        }
+    },
+    "Start": {
+        "can": {
+            "Step": {
+                "link": ["simpleLine"]
+            },
+            "Stop": {
+                "link": ["simpleLine"]
+            },
+            "Conditional": {
+                "link": ["simpleLine"]
+            },
+            "Variable": {
+                "link": ["simpleLine"]
+            },
+            "Input": {
+                "link": ["simpleLine"]
+            },
+            "Output": {
+                "link": ["simpleLine"]
+            }
+        }
+    },
+    "Stop": {
+        "can":{}
+    },
+    "Conditional": {
+        "can": {
+            "Step": {
+                "link": ["simpleLine"]
+            },
+            "Stop": {
+                "link": ["simpleLine"]
+            },
+            "Conditional": {
+                "link": ["simpleLine"]
+            },
+            "Variable": {
+                "link": ["simpleLine"]
+            },
+            "Input": {
+                "link": ["simpleLine"]
+            },
+            "Output": {
+                "link": ["simpleLine"]
+            }
+        }
+    },
+    "Variable": {
+        "can": {
+            "Step": {
+                "link": ["simpleLine"]
+            },
+            "Stop": {
+                "link": ["simpleLine"]
+            },
+            "Conditional": {
+                "link": ["simpleLine"]
+            },
+            "Variable": {
+                "link": ["simpleLine"]
+            },
+            "Input": {
+                "link": ["simpleLine"]
+            },
+            "Output": {
+                "link": ["simpleLine"]
+            }
+        }
+    },
+    "Input": {
+        "can": {
+            "Step": {
+                "link": ["simpleLine"]
+            },
+            "Stop": {
+                "link": ["simpleLine"]
+            },
+            "Conditional": {
+                "link": ["simpleLine"]
+            },
+            "Variable": {
+                "link": ["simpleLine"]
+            },
+            "Input": {
+                "link": ["simpleLine"]
+            },
+            "Output": {
+                "link": ["simpleLine"]
+            }
+        }
+    }, 
+    "Output": {
+        "can": {
+            "Step": {
+                "link": ["simpleLine"]
+            },
+            "Stop": {
+                "link": ["simpleLine"]
+            },
+            "Conditional": {
+                "link": ["simpleLine"]
+            },
+            "Variable": {
+                "link": ["simpleLine"]
+            },
+            "Input": {
+                "link": ["simpleLine"]
+            },
+            "Output": {
+                "link": ["simpleLine"]
+            }
+        }
+    }
+
+}

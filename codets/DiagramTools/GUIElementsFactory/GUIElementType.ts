@@ -1,0 +1,6 @@
+/**
+ * Enum for GUIElements
+ */
+export enum GUIElementType{
+    LINE, TEXTBLOCK, SQUARE, TRIANGLE, RECTANGLE, RHOMBOID, CIRCLE, DIAMOND, OVAL, DOCUMENT, MANUAL_INPUT
+}
